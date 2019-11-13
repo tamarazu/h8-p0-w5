@@ -1,7 +1,7 @@
 function makanTerusRekursif(waktu) {
     // you can only write your code here!
     var ambil = 0
-    console.log(waktu)
+    
     // var status = true
     // while (waktu > 0) {
     //     // status = true        
